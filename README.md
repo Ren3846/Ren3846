@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Renat</a> 
+<h1 align="center">Hi there, I'm <a href="http://x.dev-group.live/" target="_blank">Renat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Ukraine</h3>
+<h3 align="center">Web developer from Ukraine</h3>
 
 
 
