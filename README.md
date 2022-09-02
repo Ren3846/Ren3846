@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="http://x.dev-group.live/" target="_blank">Renat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web developer from Ukraine</h3>
+<h3 align="center">Web developer from Ukraine🇺🇦</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RhrAi0KejGlYbpanuQ/giphy.gif" width="400" height="400"/>
 </div>
-
 
 
 <!--
