@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="http://x.dev-group.live/portfolio.html" target="_blank">Renat</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">Web developer from Ukraine🇺🇦</h3>
 
 
