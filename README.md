@@ -8,8 +8,3 @@
   <img src="https://media.giphy.com/media/RhrAi0KejGlYbpanuQ/giphy.gif" width="400" height="400"/>
 </div>
 
-
-<!--
-**Ren3846/Ren3846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-//p;
