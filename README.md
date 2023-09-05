@@ -3,8 +3,8 @@
 <h3 align="center">Web developer from Ukraine🇺🇦</h3>
 
 
-<a href="https://www.linkedin.com/in/renat-chernov-5587561a3/">
-  <img align="left" alt="Renat linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/renat-chernov/">
+<img align="left" alt="Renat linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: blue;" />
 </a>
 
 Talking about Personal Stuffs:
