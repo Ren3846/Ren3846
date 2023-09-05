@@ -2,7 +2,6 @@
 
 <h3 align="center">Web developer from Ukraine🇺🇦</h3>
 
-  <!-- 
 
 <a href="https://www.linkedin.com/in/renat-chernov-5587561a3/">
   <img align="left" alt="Renat linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,9 +31,9 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
- -->
+ 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RhrAi0KejGlYbpanuQ/giphy.gif" width="400" height="400"/>
+  <img src="https://media.giphy.com/media/RhrAi0KejGlYbpanuQ/giphy.gif" width="50" height="50"/>
 </div>
 
